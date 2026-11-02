@@ -1,5 +1,11 @@
 # Deacaeta_demonstration
 
-Etat actuel du projet, qui est toujours en cours de développement.
+Etat actuel du projet (02/11/2026).
 
+## Changements en cours : 
+MySQL -> PostgreSQL
++ Prisma ORM
++ Docker
+
+Demo :
 https://streamable.com/pu1yh5
